@@ -23,7 +23,7 @@ You need [Node.js](https://nodejs.org/) installed.
 
 ```bash
 git clone https://github.com/stosic-dev/Hangman-game.git
-cd your-repo-name
+cd Hangman-game
 npm install
 npm run dev
 ```
